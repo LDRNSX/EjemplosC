@@ -1,0 +1,5 @@
+Ejemplo00 = Primera prueba, conocer el entorno.
+Ejemplo1 = Mostrar un mensaje por pantalla y capturar por teclado un dato.
+Ejemplo2 = Tipos de datos de C++.
+Ejemplo3 = Operadores aritmeticos de C++.
+Ejemplo4 = Operadores de asigncacion y comparacion.
