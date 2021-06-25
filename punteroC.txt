@@ -1,0 +1,20 @@
+El contenido del puntero contiene la dirección de una variable
+
+Con * obtenemos el contenido
+Con & obtenemos la dirección
+Con = asignamos dirección al puntero
+
+Inicializamos una variable (cualquiera)
+	int variable = 0;
+
+Le asignamos al puntero "apuntador" la dirección de variable
+	int* apuntador = &variable;
+
+Le asignamos un contenido a la posición de memoria del puntero
+	*apuntador = 20;
+
+Por lo tanto:
+	La dirección de variable es apuntador
+	El contenido de variable es variable (20)
+	La dirección de apuntador es &apuntador
+	El contenido de apuntador es *apuntador
